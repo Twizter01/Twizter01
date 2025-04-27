@@ -1,8 +1,7 @@
-# Twizter01
-A little about me
 
 
-🌟 About Me
+
+🌟 A little About Me
 - 🔭 I’m currently working as a **Sales Executive**.
 - 🌱 I’m currently learning **Data Science** and **Systems Engineering**.
 - 🎨 I’m a **CSS Lover**.
