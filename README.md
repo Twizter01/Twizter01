@@ -12,8 +12,8 @@ A little about me
 - 🚀 I'm a first-year Computer Science student who absolutely adores nature.
 
 🚀 My Skills
-- Programming Languages: Python, JavaScript, a little C++, HTML, CSS
-- Technologies: Git, Docker, Node.js
+- Programming Languages: Python, JavaScript and a little C++ and TypeScript.
+- Technologies: Git, Docker, Node.js, HTML, CSS
 - Other Skills:
   - Microsoft Excel
   - Proficient in both **C1 English** and **C1 Spanish**
