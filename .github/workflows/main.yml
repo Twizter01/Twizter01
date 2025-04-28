@@ -1,56 +1,29 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: Generate Snake Animation
 
-
-permissions:
-  contents: write
-
-# Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
+    - cron: "0 0 * * *" # Ejecutar cada día a las 00:00 UTC
   workflow_dispatch:
-  
-  # Also run on every push on the master branch
-  push:
-    branches:
-    - main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: microsoft/windows
+  generate:
+    runs-on: windows-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-    
-      - name: Generate the snake files in './dist/'
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Show build status
-        run: git status
-
-      - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: Update snake animations
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          node-version: '20'
+
+      - name: Generate Snake SVG
+        run: |
+          npx @platane/snk generate --github-user Twizter01 --output ./output/github-contribution-grid-snake.svg
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate contribution grid snake"
+          add: "output/github-contribution-grid-snake.svg"
