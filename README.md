@@ -49,7 +49,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,linux,nodejs,python,javascript,typescript,firebase,mongodb,sql" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,linux,nodejs,python,javascript,typescript,firebase,mongodb,sqlite" alt="skills" />
 </div>
 
 <br/>
