@@ -13,8 +13,8 @@
 
 <script>
 // Configuration
-const username = "YOUR_GITHUB_USERNAME";  // Replace with your GitHub username
-const token = "YOUR_GITHUB_TOKEN";        // Replace with your GitHub token
+const username = Twizter01;  // Replace with your GitHub username
+const token = ;        // Replace with your GitHub token
 const canvas = document.getElementById("snakeCanvas");
 const ctx = canvas.getContext("2d");
 const gridSize = 10;
