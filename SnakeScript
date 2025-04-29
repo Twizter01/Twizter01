@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Snake Animation</title>
+  <style>
+    body { margin: 0; background: #0d1117; display: flex; justify-content: center; align-items: center; height: 100vh; }
+    canvas { background: #0d1117; }
+  </style>
+</head>
+<body>
+<canvas id="snakeCanvas" width="840" height="120"></canvas>
+
+<script>
+// Configuration
+const username = "YOUR_GITHUB_USERNAME";  // Replace with your GitHub username
+const token = "YOUR_GITHUB_TOKEN";        // Replace with your GitHub token
+const canvas = document.getElementById("snakeCanvas");
+const ctx = canvas.getContext("2d");
+const gridSize = 10;
+const cellSize = 12;
+let snake = [{x: 0, y: 0}];
+let direction = {x: 1, y: 0};
+let contributions = [];
+
+// Fetch contribution data
+async function fetchContributions() {
+  const query = `
+    query {
+      user(login: "${username}") {
+        contributionsCollection {
+          contributionCalendar {
+            weeks {
+              contributionDays {
+                contributionCount
+              }
+            }
+          }
+        }
+      }
+    }
+  `;
+  
+  const response = await fetch('https://api.github.com/graphql', {
+    method: 'POST',
+    headers: {
+      'Authorization': `Bearer ${token}`,
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ query })
+  });
+  
+  const data = await response.json();
+  const weeks = data.data.user.contributionsCollection.contributionCalendar.weeks;
+  
+  contributions = weeks.flatMap(week => week.contributionDays.map(day => day.contributionCount));
+  drawGrid();
+  animate();
+}
+
+// Draw the contribution grid
+function drawGrid() {
+  for (let i = 0; i < 52; i++) {
+    for (let j = 0; j < 7; j++) {
+      const index = i * 7 + j;
+      const level = contributions[index];
+      ctx.fillStyle = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"][level];
+      ctx.fillRect(i * cellSize, j * cellSize, cellSize - 1, cellSize - 1);
+    }
+  }
+}
+
+// Draw the snake
+function drawSnake() {
+  for (const segment of snake) {
+    ctx.fillStyle = "orange";
+    ctx.fillRect(segment.x * cellSize, segment.y * cellSize, cellSize - 1, cellSize - 1);
+  }
+}
+
+// Move the snake
+function moveSnake() {
+  const head = { ...snake[0] };
+  head.x += direction.x;
+  head.y += direction.y;
+
+  if (head.x >= 52) {
+    head.x = 0;
+    head.y = (head.y + 1) % 7;
+  }
+
+  snake.unshift(head);
+  snake = snake.slice(0, 10); // Keep snake length
+}
+
+// Animation loop
+function animate() {
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  drawGrid();
+  moveSnake();
+  drawSnake();
+  requestAnimationFrame(animate);
+}
+
+// Start the animation
+fetchContributions();
+</script>
+</body>
+</html>
