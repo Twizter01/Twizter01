@@ -22,7 +22,7 @@
   🎨 I’m a CSS Lover.<br/>
   👯 I’m looking to collaborate on front-end or back-end projects. My focus is to build profitable and scalable solutions.<br/>
   📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-jimenez-a28b73316" target="_blank">LinkedIn</a><br/>
-  😄 Pronouns: He/Him.<br/>
+  😄 Pronouns: He/Him.<br/> 
   🚀 I'm a first-year Computer Science student who absolutely adores nature.<br/>
 
 </div>
@@ -49,7 +49,7 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,tailwind,git,linux,nodejs,python,javascript,typescript,firebase,mongodb,sqlite" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,linux,nodejs,python,javascript,typescript,firebase,mongodb,sqlite" alt="skills" />
 </div>
 
 <br/>
