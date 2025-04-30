@@ -36,10 +36,7 @@
   </a>
   <a href="https://www.linkedin.com/in/gabriel-jimenez-a28b73316" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://Twizter01.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=black" alt="portfolio" />
-  </a>
+  
 </div>
 
 <br/>
