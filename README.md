@@ -55,9 +55,8 @@
 <!-- Snake Contributions -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br/>
-  <img alt=![snake gif](https://github.com/Twizter01/Twizter01/blob/output/github-snake-dark.svg)
- />
+  
+  ![snake gif](https://github.com/Twizter01/Twizter01/blob/output/github-snake-dark.svg)
 </div>
 
 <br/>
