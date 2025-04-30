@@ -56,7 +56,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
-  <img alt="Snake animation" src="https://github.com/Twizter01/Twizter01/blob/output/github-contribution-grid-snake.svg?raw=true" />
+  <img alt=![snake gif](https://github.com/Twizter01/Twizter01/blob/output/github-snake-dark.svg)
+ />
 </div>
 
 <br/>
