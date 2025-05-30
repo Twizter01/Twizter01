@@ -21,7 +21,7 @@
   🌱 I’m currently learning Data Science and Systems Engineering.<br/>
   🎨 I’m a CSS Lover.<br/>
   👯 I’m looking to collaborate on front-end or back-end projects. My focus is to build profitable and scalable solutions.<br/>
-  📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-jimenez-a28b73316" target="_blank">LinkedIn</a><br/>
+  📫 How to reach me: <a href="www.linkedin.com/in/gabriel-rodríguez-a28b73316" target="_blank">LinkedIn</a><br/>
   😄 Pronouns: He/Him.<br/> 
   🚀 I'm a first-year Computer Science student who absolutely adores nature.<br/>
 
