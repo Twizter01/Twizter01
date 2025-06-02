@@ -23,7 +23,9 @@
   🚀 I'm a first-year Computer Science student who absolutely adores nature.<br/>
 
 </div>
-<br></br>
+<br>
+  <div align="center">
+</br>
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 
 <div align="center">
