@@ -27,11 +27,9 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:Gabrielandrejimenez11@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-jimenez-a28b73316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/gabriel-jimenez-a28b73316" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   
 </div>
 
