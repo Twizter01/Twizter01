@@ -1,0 +1,39 @@
+name: Sync Stats Between Repos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout profile repo
+      uses: actions/checkout@v3
+      with:
+        repository: Twizter01/Twizter01
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        path: profile
+        
+    - name: Checkout website repo
+      uses: actions/checkout@v3
+      with:
+        repository: Twizter01/twizter01.github.io
+        token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        path: website
+        
+    - name: Sync data
+      run: |
+        # Extract stats from README and update HTML
+        # Custom script to sync between repos
+        node sync-repos.js
+        
+    - name: Commit changes
+      run: |
+        cd website
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || git commit -m "Sync stats from profile"
+        git push
