@@ -1,50 +1,5 @@
-<div align="center">
-  <h2>📊 3D Contributions & Radar Chart 📊</h2>
-
-  <!-- 3D Contributions Chart -->
-  <div id="contributionsChart" style="width: 80%; height: 400px;"></div>
-
-  <!-- Radar Chart -->
-  <canvas id="radarChart" width="400" height="400"></canvas>
-</div>
-
-<!-- Include Plotly.js and Chart.js Libraries -->
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-
-<script>
-  // 3D Contributions Chart (Plotly)
-  var contributionsData = {
-      x: ["Jan", "Feb", "Mar", "Apr", "May", "Jun"],
-      y: ["2024", "2025"],
-      z: [[10, 20, 30, 40, 50, 60], [15, 25, 35, 45, 55, 65]],
-      type: "surface"
-  };
-
-  var layout3D = {
-      title: "GitHub Contributions",
-      scene: { xaxis: { title: "Month" }, yaxis: { title: "Year" }, zaxis: { title: "Commits" } }
-  };
-
-  Plotly.newPlot("contributionsChart", [contributionsData], layout3D);
-
-  // Radar Chart (Chart.js)
-  var ctx = document.getElementById("radarChart").getContext("2d");
-
-  new Chart(ctx, {
-      type: "radar",
-      data: {
-          labels: ["Coding", "Issues", "Pull Requests", "Reviews", "Commits"],
-          datasets: [{
-              label: "Activity",
-              data: [85, 65, 90, 75, 95],
-              backgroundColor: "rgba(0, 128, 255, 0.2)",
-              borderColor: "rgba(0, 128, 255, 1)",
-              borderWidth: 2
-          }]
-      },
-      options: {
-          scale: { ticks: { beginAtZero: true } }
-      }
-  });
-</script>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Twizter01.Twizter01" alt="visitor badge" />
+</p><h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Twizter!+👋" alt="Typing SVG" /></h1><h3 align="center" color="purple">A passionate software developer from Colombia</h3><br/><div align="center"><h2>🌟 A little About Me</h2>🔭 I'm currently working as a Sales Executive.<br/>🌱 I'm currently learning Data Science and Systems Engineering.<br/>🎨 I'm a CSS Lover.<br/>👯 I'm looking to collaborate on front-end or back-end projects. My focus is to build profitable and scalable solutions.<br/>📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-jimenez-a28b73316" target="_blank">LinkedIn</a><br/>😄 Pronouns: He/Him.<br/>🚀 I'm a first-year Computer Science student who absolutely adores nature.<br/></div><br><div align="center"><h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,python,bash,react,tailwind,nodejs,django,firebase,mongodb,sqlite,vscode,git,github,linux,figma" alt="skills" /></div><br/><hr/><div align="center"><h2>🐍 My Contributions 🐍</h2><img src="https://raw.githubusercontent.com/Twizter01/Twizter01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></div><br/><hr/><h2 align="center">⚡ Stats ⚡</h2><div align="center"><img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Twizter01&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=Twizter01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+<br/><br/>
+<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twizter01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></div>
