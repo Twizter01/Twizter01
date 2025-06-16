@@ -21,7 +21,7 @@
 
 <div align="center">
   <h2 align="center" class="glow-text">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,python,flutter,bash,react,tailwind,nodejs,django,firebase,mongodb,sqlite,vscode,git,github,linux,figma" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,dart,cpp,python,flutter,bash,react,tailwind,nodejs,django,firebase,mongodb,sqlite,vscode,git,github,linux,figma" alt="skills" />
 </div>
 
 <hr/>
