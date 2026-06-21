@@ -1,43 +1,127 @@
-<p align="right"> 
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1500&color=39FF14&background=000000&lines=TWIZTER;BACK-END+ENGINEER;TEAM+LEAD;INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+  ![](https://img.shields.io/badge/ROLE-TEAM%20LEAD-39FF14?style=flat-square&labelColor=000000&color=39FF14)
+  ![](https://img.shields.io/badge/ORIGIN-COLOMBIA-FF00FF?style=flat-square&labelColor=000000&color=FF00FF)
+  ![](https://img.shields.io/badge/ZONE-UTC--5-00FFFF?style=flat-square&labelColor=000000&color=00FFFF)
+  ![](https://img.shields.io/badge/HE-HIM-FFFF00?style=flat-square&labelColor=000000&color=FFFF00)
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Twizter01.Twizter01" alt="visitor badge" />
-</p>
 
-<h1 align="center" class="glow-text">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey,+I'm+Twizter!" alt="Typing SVG" />
-</h1> 
-
-<h3 align="center" class="glow-text">A passionate software developer from Colombia</h3>
-
-<div align="center">
-  <h2 class="glow-text">🌟 A little About Me</h2>
-  <p class="glow-text">🔭 I'm currently working as a Team Lead.</p>
-  <p class="glow-text">🌱 Systems Engineering student.</p>
-  <p class="glow-text">🎨 "Python is my shepherd, and I shall not want."</p>
-  <p class="glow-text">👯 I'm looking to collaborate on back-end projects. Looking for a pygame lover to.</p>
-  <p class="glow-text">📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-rodr%C3%ADguez-a28b73316/" ,target="_blank" class="glow-text">LinkedIn</a></p>
-  <p class="glow-text">😄 Pronouns: He/Him.</p>
 </div>
 
+<br/>
+
+```
+██████████████████████████████████████████████████████████
+█                                                        █
+█   > "Python is my shepherd, and I shall not want."    █
+█                                                        █
+██████████████████████████████████████████████████████████
+```
+
+<br/>
+
+```
+// PLAYER INFO ///////////////////////////////////////////////
+
+  ROLE     Team Lead — keeping the build green on Fridays
+  CLASS    Systems Engineering student, still leveling up
+  QUEST    Open to back-end collabs & pygame experiments
+  BASE     Bogotá, Colombia · UTC-5 · caffeinated
+
+// ///////////////////////////////////////////////////////////
+```
+
+<br/>
+
+---
+
+### `// EQUIPPED SKILLS`
+
 <div align="center">
-  <h2 align="center" class="glow-text">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flutter,bash,nodejs,django,firebase,mongodb,sqlite,vscode,git,github,linux,figma" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,javascript,flutter,bash,firebase,mongodb,sqlite,linux,git,github,vscode,figma&theme=dark" alt="Tech stack" />
 </div>
 
-<hr/>
+<br/>
+
+---
+
+### `// CONTRIBUTION STREAK`
 
 <div align="center">
-  <h2 class="glow-text">🐍 My Contributions 🐍</h2>
-  <img src="https://raw.githubusercontent.com/Twizter01/Twizter01/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Twizter01/Twizter01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </div>
 
-<hr/>
+<br/>
 
-<h2 align="center" class="glow-text">⚡ Stats ⚡</h2>
+---
+
+### `// STATS SCREEN`
+
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Twizter01&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Twizter01&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/><br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twizter01&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Twizter01&count_private=true&theme=highcontrast&border_radius=0&hide_border=false&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&background=000000&border=39FF14" alt="GitHub streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Twizter01&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=0&hide_border=false&bg_color=000000&border_color=39FF14&title_color=FF00FF&icon_color=00FFFF&text_color=39FF14" alt="GitHub stats" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twizter01&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=0&hide_border=false&bg_color=000000&border_color=39FF14&title_color=FF00FF&text_color=39FF14&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FFFF?style=flat-square&labelColor=000000&color=00FFFF)](https://www.linkedin.com/in/gabriel-rodr%C3%ADguez-a28b73316/)
+
+</div>
+
+<br/>
+
+---
+
+### `// CONTRIBUTION STREAK`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Twizter01/Twizter01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</div>
+
+<br/>
+
+---
+
+### `// STATS SCREEN`
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Twizter01&count_private=true&theme=highcontrast&border_radius=0&hide_border=false&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&background=000000&border=39FF14" alt="GitHub streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Twizter01&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=0&hide_border=false&bg_color=000000&border_color=39FF14&title_color=FF00FF&icon_color=00FFFF&text_color=39FF14" alt="GitHub stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Twizter01&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=0&hide_border=false&bg_color=000000&border_color=39FF14&title_color=FF00FF&text_color=39FF14&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+```
+▓▓▓ GAME OVER? PRESS START TO CONTINUE ▓▓▓
+```
+
+</div>
 
