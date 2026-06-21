@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1500&color=39FF14&background=000000&lines=TWIZTER;BACK-END+ENGINEER;TEAM+LEAD;INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=22&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1500&color=39FF14&background=000000&lines=TWIZTER;BACK-END+ENGINEER;TEAM+LEAD;INSERT+COIN+TO+CONTINUE.. ." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,14 +16,14 @@
 
 </div>
 
-<br/>
+<br align="center"/>
 
 ```
-██████████████████████████████████████████████████████████
+
 █                                                        █
-█   > "Python is my shepherd, and I shall not want."    █
+█   > "Python is my shepherd, and I shall not want."     █
 █                                                        █
-██████████████████████████████████████████████████████████
+
 ```
 
 <br/>
