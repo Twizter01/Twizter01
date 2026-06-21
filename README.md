@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=11&center=true&vCenter=true&width=700&height=30&&color=FFFF00&background=000000&repeat=false&lines=SCORE+0099820+%E2%80%A2+LIVES+%E2%99%A5+%E2%99%A5+%E2%99%A5" alt="HUD" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=11&center=true&vCenter=true&width=700&height=30&duration=99999&pause=99999&color=FFFF00&background=000000&lines=SCORE+0099820+%E2%80%A2+LIVES+%E2%99%A5+%E2%99%A5+%E2%99%A5" alt="HUD" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=700&height=90&duration=3000&pause=1500&color=39FF14&background=000000&lines=TWIZTER;SYSTEMS-ENGINEERING-STUDENT;TEAM+LEAD;INSERT+COIN..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=700&height=90&duration=3000&pause=1500&color=39FF14&background=000000&lines=TWIZTER;BACK-END+ENGINEER;TEAM+LEAD;INSERT+COIN..." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -34,6 +34,8 @@
 
 <br/>
 
+<div align="center">
+
 ```
 ██████████████████████████████████████████████████████████
 █                                                        █
@@ -42,7 +44,11 @@
 ██████████████████████████████████████████████████████████
 ```
 
+</div>
+
 <br/>
+
+<div align="center">
 
 ```
 // PLAYER INFO ///////////////////////////////////////////////
@@ -50,10 +56,12 @@
   ROLE     Team Lead — keeping the build green on Fridays
   CLASS    Systems Engineering student, still leveling up
   QUEST    Open to back-end collabs & pygame experiments
-  BASE     Bogotá, Colombia · UTC-5 · caffeinated
+  BASE     Bogota, Colombia · UTC-5 · caffeinated
 
 // ///////////////////////////////////////////////////////////
 ```
+
+</div>
 
 <br/>
 
@@ -97,9 +105,9 @@
 ---
 
 <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FFFF?style=flat-square&labelColor=000000&color=00FFFF)](https://www.linkedin.com/in/gabriel-rodr%C3%ADguez-a28b73316/)
-
+  <a href="https://www.linkedin.com/in/gabriel-rodr%C3%ADguez-a28b73316/">
+    <img src="https://img.shields.io/badge/LINKEDIN-Gabriel%20Rodr%C3%ADguez-00FFFF?style=flat-square&logo=linkedin&logoColor=00FFFF&labelColor=000000&color=00FFFF" alt="LinkedIn" />
+  </a>
 </div>
 
 <br/>
@@ -109,11 +117,11 @@
 <div align="center">
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                              ▓
-▓      GAME OVER? PRESS START TO CONTINUE      ▓
-▓                                              ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                        ▓
+▓         GAME OVER? PRESS START TO CONTINUE             ▓
+▓                                                        ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 </div>
