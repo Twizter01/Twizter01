@@ -10,7 +10,7 @@
 
 <div align="center">
   <h2 class="glow-text">🌟 A little About Me</h2>
-  <p class="glow-text">🔭 I'm currently working as Team Lead.</p>
+  <p class="glow-text">🔭 I'm currently working as a Team Lead.</p>
   <p class="glow-text">🌱 Systems Engineering student.</p>
   <p class="glow-text">🎨 "Python is my shepherd, and I shall not want."</p>
   <p class="glow-text">👯 I'm looking to collaborate on back-end projects. Looking for a pygame lover to.</p>
@@ -20,7 +20,7 @@
 
 <div align="center">
   <h2 align="center" class="glow-text">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,dart,cpp,python,flutter,bash,react,tailwind,nodejs,django,firebase,mongodb,sqlite,vscode,git,github,linux,figma" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,flutter,bash,nodejs,django,firebase,mongodb,sqlite,vscode,git,github,linux,figma" alt="skills" />
 </div>
 
 <hr/>
