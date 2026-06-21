@@ -18,7 +18,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center"&color=FFFF00&background=000000>
 
 ```
 ██████████████████████████████████████████████████████████
