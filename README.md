@@ -15,7 +15,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Twizter01.Twizter01" alt="visitor badge" />
 
 </div>
-<div align="center">
+
 <br/>
 
 ```
@@ -25,7 +25,7 @@
 █                                                        █
 
 ```
-</div>
+
 <br/>
 
 ```
