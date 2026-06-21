@@ -10,13 +10,12 @@
 
 <div align="center">
   <h2 class="glow-text">🌟 A little About Me</h2>
-  <p class="glow-text">🔭 I'm currently working as a Sales Executive.</p>
-  <p class="glow-text">🌱 I'm currently learning Data Science and Systems Engineering.</p>
-  <p class="glow-text">🎨 I'm a CSS Lover.</p>
-  <p class="glow-text">👯 I'm looking to collaborate on front-end or back-end projects. My focus is to build profitable and scalable solutions.</p>
+  <p class="glow-text">🔭 I'm currently working as Team Lead.</p>
+  <p class="glow-text">🌱 Systems Engineering student.</p>
+  <p class="glow-text">🎨 "Python is my shepherd, and I shall not want."</p>
+  <p class="glow-text">👯 I'm looking to collaborate on back-end projects. Looking for a pygame lover to.</p>
   <p class="glow-text">📫 How to reach me: <a href="https://www.linkedin.com/in/gabriel-rodr%C3%ADguez-a28b73316/" ,target="_blank" class="glow-text">LinkedIn</a></p>
   <p class="glow-text">😄 Pronouns: He/Him.</p>
-  <p class="glow-text">🚀 I'm a first-year Computer Science student who absolutely adores nature.</p>
 </div>
 
 <div align="center">
