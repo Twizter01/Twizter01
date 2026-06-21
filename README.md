@@ -67,7 +67,9 @@
 
 ---
 
-### `// EQUIPPED SKILLS`
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+EQUIPPED+SKILLS" alt="Equipped Skills title" />
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,javascript,flutter,bash,firebase,mongodb,sqlite,linux,git,github,vscode,figma&theme=dark" alt="Tech stack" />
@@ -77,7 +79,9 @@
 
 ---
 
-### `// CONTRIBUTION SNAKE`
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+CONTRIBUTION+SNAKE" alt="Contribution Snake title" />
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Twizter01/Twizter01/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
@@ -87,7 +91,9 @@
 
 ---
 
-### `// STATS SCREEN`
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+STATS+SCREEN" alt="Stats Screen title" />
+</div>
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Twizter01&count_private=true&theme=highcontrast&border_radius=0&hide_border=false&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&background=000000&border=39FF14" alt="GitHub streak" />
@@ -105,8 +111,12 @@
 ---
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+CONTACT" alt="Contact title" />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-rodr%C3%ADguez-a28b73316/">
-    <img src="https://img.shields.io/badge/LINKEDIN-Gabriel%20Rodr%C3%ADguez-00FFFF?style=flat-square&logo=linkedin&logoColor=00FFFF&labelColor=000000&color=00FFFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/%5B%20LINKEDIN%20%5D-GABRIEL%20RODRIGUEZ-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FFFF&color=000000" alt="LinkedIn" />
   </a>
 </div>
 
@@ -115,13 +125,5 @@
 ---
 
 <div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                                                        ▓
-▓         GAME OVER? PRESS START TO CONTINUE             ▓
-▓                                                        ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=10&center=true&vCenter=true&width=700&height=80&duration=1000&pause=3000&color=39FF14&background=000000&lines=%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93;GAME+OVER%3F+PRESS+START+TO+CONTINUE;%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93" alt="Game Over footer" />
 </div>
