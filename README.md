@@ -37,11 +37,11 @@
 <div align="center">
 
 ```
-██████████████████████████████████████████████████████████
-█                                                        █
-█   > "Python is my shepherd, and I shall not want."    █
-█                                                        █
-██████████████████████████████████████████████████████████
+
+                                                
+ "Python is my shepherd, and I shall not want."    
+
+
 ```
 
 </div>
@@ -53,10 +53,9 @@
 ```
 // PLAYER INFO ///////////////////////////////////////////////
 
-  ROLE     Team Lead — keeping the build green on Fridays
   CLASS    Systems Engineering student, still leveling up
   QUEST    Open to back-end collabs & pygame experiments
-  BASE     Bogota, Colombia · UTC-5 · caffeinated
+  BASE     Bogota, Colombia · UTC-5 · Caffeinated
 
 // ///////////////////////////////////////////////////////////
 ```
@@ -68,7 +67,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+EQUIPPED+SKILLS" alt="Equipped Skills title" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&color=FFFF00&background=000000&lines=%2F%2F+EQUIPPED+SKILLS" alt="Equipped Skills title" />
 </div>
 
 <div align="center">
@@ -80,7 +79,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+CONTRIBUTION+SNAKE" alt="Contribution Snake title" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&width=700&height=40&color=FFFF00&background=000000&lines=%2F%2F+CONTRIBUTION+SNAKE" alt="Contribution Snake title" />
 </div>
 
 <div align="center">
