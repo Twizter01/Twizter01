@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=700&height=90&duration=2000&color=39FF14&background=000000&lines=TWIZTER;BACK-END+ENGINEER;TEAM+LEAD;INSERT+COIN..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=28&center=true&vCenter=true&width=700&height=90&duration=3000&pause=1500&color=39FF14&background=000000&lines=TWIZTER;BACK-END+ENGINEER;TEAM+LEAD;INSERT+COIN..." alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=9&center=true&vCenter=true&width=700&height=30&duration=3000&color=00FFFF&background=000000&lines=BACK-END+%C2%B7+TEAM+LEAD+%C2%B7+SYSTEMS+ENG+STUDENT+%C2%B7+COLOMBIA" alt="Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=9&center=true&vCenter=true&width=700&height=30&duration=99999&pause=99999&color=00FFFF&background=000000&lines=BACK-END+%C2%B7+TEAM+LEAD+%C2%B7+SYSTEMS+ENG+STUDENT+%C2%B7+COLOMBIA" alt="Subtitle" />
 </div>
 
 <div align="center">
