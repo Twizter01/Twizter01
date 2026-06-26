@@ -41,7 +41,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+EQUIPPED+SKILLS" alt="Equipped Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=1500&pause=800&color=FFFF00&background=000000&lines=%2F%2F+EQUIPPED+SKILLS" alt="Equipped Skills" />
   <br/>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,javascript,flutter,bash,firebase,mongodb,sqlite,linux,git,github,vscode,figma&theme=dark" alt="Stack" />
 </div>
@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+CONTRIBUTION+SNAKE" alt="Contribution Snake" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=1500&pause=800&color=FFFF00&background=000000&lines=%2F%2F+CONTRIBUTION+SNAKE" alt="Contribution Snake" />
   <br/>
   <img src="https://raw.githubusercontent.com/Twizter01/Twizter01/output/github-contribution-grid-snake-dark.svg" alt="Snake" />
 </div>
@@ -61,7 +61,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=99999&pause=99999&color=FFFF00&background=000000&lines=%2F%2F+STATS+SCREEN" alt="Stats Screen" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=1500&pause=800&color=FFFF00&background=000000&lines=%2F%2F+STATS+SCREEN" alt="Stats Screen" />
   <br/>
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Twizter01&count_private=true&theme=highcontrast&border_radius=0&stroke=39FF14&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&background=000000&border=39FF14" alt="Streak" />
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=Twizter01&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=0&bg_color=000000&border_color=39FF14&title_color=FF00FF&icon_color=00FFFF&text_color=39FF14" alt="Stats" />
