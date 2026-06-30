@@ -24,13 +24,13 @@
 ```
 
 
-╔══╡ PLAYER INFO ╞═════════════════════════════════════════╗
-  ║                                                        ║
-  ║   ⚔  ROLE   │ Team Lead · build stays green Fridays    ║
-  ║   ★  CLASS  │ Systems Engineering · still lvl'ing up   ║
-  ║   ◈  QUEST  │ back-end collabs & pygame experiments    ║
-  ║   ◉  BASE   │ Bogotá, Colombia · UTC-5 · caffeinated   ║
-  ║                                                         ║
+  ╔══╡ PLAYER INFO ╞═════════════════════════════════════════╗
+  ║                                                          ║
+  ║   ⚔  ROLE   │ Team Lead · build stays green Fridays      ║
+  ║   ★  CLASS  │ Systems Engineering · still lvl'ing up     ║
+  ║   ◈  QUEST  │ back-end collabs & pygame experiments      ║
+  ║   ◉  BASE   │ Bogotá, Colombia · UTC-5 · caffeinated    ║
+  ║                                                          ║
   ╚═════════════════════════════════════════════════════════╝
 ```
 
