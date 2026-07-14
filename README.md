@@ -23,15 +23,12 @@
 <!-- ⚔  ROLE   │ Team Lead · -->
 
 ```
-
-
-  ╔══╡ PLAYER INFO ╞═════════════════════════════════════════╗
-  ║                                                          ║                                                     ║
-  ║   ★  CLASS  │ Systems Engineering · still lvl'ing up     ║
-  ║   ◈  QUEST  │ back-end collabs & pygame experiments      ║
-  ║   ◉  BASE   │ Bogotá, Colombia · UTC-5 · caffeinated    ║
-  ║                                                          ║
-  ╚═════════════════════════════════════════════════════════╝
+PLAYER INFO
+───────────────────────────────────────────
+★  CLASS   Systems Engineering · still lvl'ing up
+◈  QUEST   back-end collabs & pygame experiments
+◉  BASE    Bogotá, Colombia · UTC-5 · caffeinated
+───────────────────────────────────────────
 ```
 
 </div>
