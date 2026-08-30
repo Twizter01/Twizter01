@@ -40,7 +40,7 @@ PLAYER INFO
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=12&center=true&vCenter=true&width=700&height=36&duration=1400&pause=800&color=FFFF00&background=000000&lines=%2F%2F+EQUIPPED+SKILLS" alt="Equipped Skills" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,javascript,flutter,bash,firebase,mongodb,sqlite,linux,git,github,vscode,figma&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,typescript,javascript,bash,mongodb,sqlite,linux,git,github,vscode,figma&theme=dark" alt="Stack" />
 </div>
 
 <br/>
